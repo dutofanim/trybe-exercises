@@ -1,0 +1,37 @@
+.images {
+  width: 200px;
+  height: 300px;
+}
+
+.mario {
+  position: absolute;
+  z-index: 1;
+  top: 100px;
+}
+
+.gomba {
+  position: absolute;
+  z-index: 2;
+  top: 390px;
+
+}
+.bowser {
+  position: absolute;
+  z-index: 3;
+  top: 390px;
+  left: 680px
+}
+
+.baloon {
+  position: absolute;
+  z-index: 4;
+  top: 310px;
+  left: 400px;
+}
+
+.word {
+  position: absolute;
+  z-index: 5;
+  top: 370px;
+  left: 470px
+}
