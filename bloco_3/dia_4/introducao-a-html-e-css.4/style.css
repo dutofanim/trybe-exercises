@@ -16,6 +16,6 @@ section.article article {
     margin: auto;
 }
 
-section.article article p {
+article section.small-article p {
  text-align: justify;
 }
