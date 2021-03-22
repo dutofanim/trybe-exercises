@@ -1,6 +1,21 @@
-
+header {
+    text-align: center;
+}
 
 nav ul.header-menu li {
     display: inline-block;
-    margin: auto 200px;
+    margin: 10px 80px;
+}
+
+section.article h2 {
+    margin: 50px auto;
+}
+
+section.article article {
+    width: 75%;
+    margin: auto;
+}
+
+section.article article p {
+ text-align: justify;
 }
