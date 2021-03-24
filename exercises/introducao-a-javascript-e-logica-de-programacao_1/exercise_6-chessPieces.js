@@ -1,0 +1,1 @@
+// pawn bishop knight rook queen king
